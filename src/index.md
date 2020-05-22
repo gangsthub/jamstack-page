@@ -10,11 +10,11 @@ email: '&#109;&#97;ilto&#58;p%61%75%6Cmele&#114;&#111;&#64;g&#109;a%&#54;9l%2E&#
   <h1 class="title px">jamstack.page</h1>
   <h2 class="subtitle px">
     <a href="{{ email }}">
-      In on sale! Please, make an offer ✉
+      I'm on sale! Please, make an offer ✉
     </a>
   </h2>
   <p>This page is also <a href="https://indiemaker.co/listings/jamstackpage" target="_blank"
-      rel="noopener noreferer">shown at indiemaker.co/</a>.</p>
+      rel="noopener noreferer">featured in indiemaker.co/</a>.</p>
 </main>
 <footer class="mt-auto px">
   Domain registered by
